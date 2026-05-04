@@ -12,8 +12,16 @@
     "express": "^5.2.1"
   },
   "devDependencies": {
+    "@eslint/css": "^1.2.0",
+    "@eslint/js": "^10.0.1",
+    "@eslint/json": "^1.2.0",
+    "@eslint/markdown": "^8.0.1",
     "@types/express": "^5.0.6",
+    "eslint": "^10.3.0",
+    "globals": "^17.6.0",
+    "jiti": "^2.6.1",
     "ts-node-dev": "^2.0.0",
-    "typescript": "^6.0.3"
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.59.1"
   }
 }
